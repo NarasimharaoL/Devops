@@ -1,9 +1,4 @@
-package 1;
 
-/**
- * Hello world!
- *
- */
 // Your First Program
 
 class HelloWorld {

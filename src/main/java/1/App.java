@@ -4,11 +4,10 @@ package 1;
  * Hello world!
  *
  */
-public class HelloWorld {
+// Your First Program
 
+class HelloWorld {
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        System.out.println("Hello, World!"); 
     }
-
 }
